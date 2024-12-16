@@ -1,0 +1,6 @@
+@jit_access_manager_HostAddress = http://localhost:5246
+
+GET {{jit_access_manager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

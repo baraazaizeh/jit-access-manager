@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BIyRUHU2GeLfXhpQ2TSIcGkPHimzZGE2FdHdeB1f9xY=",
+  "Source": "jit-access-manager",
+  "BasePath": "_content/jit-access-manager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

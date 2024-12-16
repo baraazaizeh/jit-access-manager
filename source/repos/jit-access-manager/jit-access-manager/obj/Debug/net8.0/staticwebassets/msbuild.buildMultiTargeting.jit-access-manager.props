@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jit-access-manager.props" />
+</Project>
